@@ -1,0 +1,173 @@
+﻿FIPS,County,Province,Country,Update,Lat,Long,Confirmed,Deaths,Recovered,Active,Admin
+,,Alberta,Canada,,53.9333,-116.5765,39,,,,Admin2
+,,Australian Capital Territory,Australia,,-35.4735,149.0124,1,0,0,,Admin2
+,,British Columbia,Canada,,53.7267,-127.6476,73,1,4,,Admin2
+,,Channel Islands,United Kingdom,,49.372284,-2.364351,3,,,,Admin2
+,,Curacao,Netherlands,,12.1696,-68.99,1,,,,Admin2
+,,Denmark,Denmark,,56.2639,9.5018,864,2,1,,Admin2
+,,Diamond Princess,Cruise Ship,,35.4498,139.6649,696,7,325,,Admin2
+,,Faroe Islands,Denmark,,61.8926,-6.9118,11,,,,Admin2
+,,France,France,,46.2276,2.2137,4499,91,12,,Admin2
+,,French Guiana,France,,3.9339,-53.1258,7,,,,Admin2
+,,French Polynesia,France,,-17.6797,-149.4068,3,,,,Admin2
+,,From Diamond Princess,Australia,,35.4437,139.638,,,,,Admin2
+,,Gansu,China,,36.0611,103.8343,,,,,Admin2
+,,Gibraltar,United Kingdom,,36.1408,-5.3536,1,,1,,Admin2
+,,Grand Princess,Canada,,37.64894,-122.665479,2,,,,Admin2
+,,Hebei,China,,38.0428,114.5149,,,,,Admin2
+,,Manitoba,Canada,,53.7609,-98.8139,4,,,,Admin2
+,,Mayotte,France,,-12.8275,45.1662,1,,,,Admin2
+,,Netherlands,Netherlands,,52.1326,5.2913,1135,20,2,,Admin2
+,,New Brunswick,Canada,,46.5653,-66.4619,2,,,,Admin2
+,,New South Wales,Australia,,-33.8688,151.2093,134,2,4,,Admin2
+,,Newfoundland and Labrador,Canada,,53.1355,-57.6604,1,,,,Admin2
+,,Northern Territory,Australia,,-12.4634,130.8456,1,0,0,,Admin2
+,,Ontario,Canada,,51.2538,-85.3232,104,,4,,Admin2
+,,Prince Edward Island,Canada,,46.5107,-63.4168,1,,,,Admin2
+,,Quebec,Canada,,52.9399,-73.5491,24,,,,Admin2
+,,Queensland,Australia,,-28.0167,153.4,61,0,8,,Admin2
+,,Saint Barthelemy,France,,17.9,-62.8333,1,,,,Admin2
+,,Saskatchewan,Canada,,52.9399,-106.4509,2,,,,Admin2
+,,South Australia,Australia,,-34.9285,138.6007,20,0,3,,Admin2
+,,St Martin,France,,18.0708,-63.0501,2,,,,Admin2
+,,Tasmania,Australia,,-41.4545,145.9707,6,0,0,,Admin2
+,,United Kingdom,United Kingdom,,55.3781,-3.436,1140,21,18,,Admin2
+,,Victoria,Australia,,-37.8136,144.9631,57,0,8,,Admin2
+,,Western Australia,Australia,,-31.9505,115.8605,17,1,0,,Admin2
+,,,Afghanistan,,33.9391,67.71,16,,,,Admin1
+,,,Albania,,41.1533,20.1683,42,1,,,Admin1
+,,,Algeria,,28.0339,1.6596,48,4,12,,Admin1
+,,,Andorra,,42.5063,1.5218,1,,,,Admin1
+,,,Antigua and Barbuda,,17.0608,-61.7964,1,,,,Admin1
+,,,Argentina,,-38.4161,-63.6167,45,2,,,Admin1
+,,,Armenia,,40.0691,45.0382,26,,,,Admin1
+,,,Aruba,,12.5211,-69.9683,2,,,,Admin1
+,,,Austria,,47.5162,14.5501,860,1,6,,Admin1
+,,,Azerbaijan,,40.1431,47.5769,23,1,6,,Admin1
+,,,Bahrain,,26.0667,50.5577,214,,60,,Admin1
+,,,Bangladesh,,23.685,90.3563,5,,,,Admin1
+,,,Belarus,,53.7098,27.9534,27,,3,,Admin1
+,,,Belgium,,50.5039,4.4699,886,4,1,,Admin1
+,,,Bhutan,,27.5142,90.4336,1,,,,Admin1
+,,,Bolivia,,-16.2902,-63.5887,10,,,,Admin1
+,,,Bosnia and Herzegovina,,43.9159,17.6791,24,,,,Admin1
+,,,Brazil,,-14.235,-51.9253,162,,,,Admin1
+,,,Brunei,,4.5353,114.7277,50,,,,Admin1
+,,,Bulgaria,,42.7339,25.4858,51,2,,,Admin1
+,,,Burkina Faso,,12.2383,-1.5616,3,,,,Admin1
+,,,Cambodia,,12.5657,104.991,7,,1,,Admin1
+,,,Cameroon,,3.848,11.5021,2,,,,Admin1
+,,,Canada,,60.001,-95.001,,,,,Admin1
+,,,Cayman Islands,,19.3133,-81.2546,1,,,,Admin1
+,,,Central African Republic,,6.6111,20.9394,1,,,,Admin1
+,,,Chile,,-35.6751,-71.543,74,,,,Admin1
+,,,China,,30.5928,114.3055,,,,,Admin1
+,,,Colombia,,4.5709,-74.2973,34,,,,Admin1
+,,,Congo (Brazzaville),,-4.0383,21.7587,1,,,,Admin1
+,,,Congo (Kinshasa),,-4.0383,21.7587,2,,,,Admin1
+,,,Costa Rica,,9.7489,-83.7534,27,,,,Admin1
+,,,Cote d'Ivoire,,7.54,-5.5471,1,,,,Admin1
+,,,Croatia,,45.1,15.2,49,,1,,Admin1
+,,,Cuba,,21.5218,-77.7812,4,,,,Admin1
+,,,Cyprus,,35.1264,33.4299,26,,,,Admin1
+,,,Czechia,,49.8175,15.473,253,,,,Admin1
+,,,Denmark,,,,0,,,,Admin1
+,,,Dominican Republic,,18.7357,-70.1627,11,,,,Admin1
+,,,Ecuador,,-1.8312,-78.1834,28,2,,,Admin1
+,,,Egypt,,26.8206,30.8025,110,2,21,,Admin1
+,,,Estonia,,58.5953,25.0136,171,,1,,Admin1
+,,,Eswatini,,-26.5225,31.4659,1,,,,Admin1
+,,,Ethiopia,,9.145,40.4897,1,,,,Admin1
+,,,Finland,,61.9241,25.7482,244,,10,,Admin1
+,,,Gabon,,-0.8037,11.6094,1,,,,Admin1
+,,,Georgia,,42.3154,43.3569,33,,,,Admin1
+,,,Germany,,51.1657,10.4515,5795,11,46,,Admin1
+,,,Ghana,,7.9465,-1.0232,6,,,,Admin1
+,,,Ghana,,7.9465,-1.0232,6,,,,Admin1
+,,,Greece,,39.0742,21.8243,331,4,8,,Admin1
+,,,Guadeloupe,,16.265,-61.551,3,,,,Admin1
+,,,Guatemala,,15.7835,-90.2308,1,,,,Admin1
+,,,Guinea,,9.9456,-9.6966,1,,,,Admin1
+,,,Guyana,,4.8604,-58.9302,4,1,,,Admin1
+,,,Holy See,,41.9029,12.4534,1,,,,Admin1
+,,,Honduras,,15.2,-86.2419,3,,,,Admin1
+,,,Hungary,,47.1625,19.5033,32,1,1,,Admin1
+,,,Iceland,,64.9631,-19.0208,171,5,8,,Admin1
+,,,India,,20.5937,78.9629,113,2,13,,Admin1
+,,,Indonesia,,-0.7893,113.9213,117,5,8,,Admin1
+,,,Iran,,32.4279,53.688,13938,724,4590,,Admin1
+,,,Iraq,,33.2232,43.6793,116,10,26,,Admin1
+,,,Ireland,,53.1424,-7.6921,129,2,,,Admin1
+,,,Israel,,31.0461,34.8516,251,,4,,Admin1
+,,,Italy,,41.8719,12.5674,24747,1809,2335,,Admin1
+,,,Jamaica,,18.1096,-77.2975,10,,,,Admin1
+,,,Japan,,36.2048,138.2529,839,22,118,,Admin1
+,,,Jordan,,30.5852,36.2384,8,,1,,Admin1
+,,,Kazakhstan,,48.0196,66.9237,9,,,,Admin1
+,,,Kenya,,-0.0236,37.9062,3,,,,Admin1
+,,,"Korea, South",,35.9078,127.7669,8162,75,510,,Admin1
+,,,Kosovo,,42.6026,20.903,2,,,,Admin1
+,,,Kuwait,,29.3117,47.4818,112,,5,,Admin1
+,,,Latvia,,56.8796,24.6032,30,,1,,Admin1
+,,,Lebanon,,33.8547,35.8623,99,3,1,,Admin1
+,,,Liechtenstein,,47.166,9.5554,4,,,,Admin1
+,,,Lithuania,,55.1694,23.8813,12,,1,,Admin1
+,,,Luxembourg,,49.8153,6.1296,59,1,,,Admin1
+,,,Malaysia,,4.2105,101.9758,428,,42,,Admin1
+,,,Maldives,,3.2028,73.2207,13,,,,Admin1
+,,,Malta,,35.9375,14.3754,21,,1,,Admin1
+,,,Martinique,,14.6415,-61.0242,9,,,,Admin1
+,,,Mauritania,,21.0079,-10.9408,1,,,,Admin1
+,,,Mexico,,23.6345,-102.5528,41,,4,,Admin1
+,,,Moldova,,47.4116,28.3699,23,,,,Admin1
+,,,Monaco,,43.7384,7.4246,2,,,,Admin1
+,,,Mongolia,,46.8625,103.8467,1,,,,Admin1
+,,,Morocco,,31.7917,-7.0926,28,1,1,,Admin1
+,,,Namibia,,-22.9576,18.4904,2,,,,Admin1
+,,,Nepal,,28.3949,84.124,1,,1,,Admin1
+,,,New Zealand,,-40.9006,174.886,8,,,,Admin1
+,,,Nigeria,,9.082,8.6753,2,,,,Admin1
+,,,North Macedonia,,41.6086,21.7453,14,,1,,Admin1
+,,,Norway,,60.472,8.4689,1221,3,1,,Admin1
+,,,occupied Palestinian territory,,31.9522,35.2332,0,,,,Admin1
+,,,Oman,,21.4735,55.9754,22,,9,,Admin1
+,,,Pakistan,,30.3753,69.3451,53,,2,,Admin1
+,,,Panama,,8.538,-80.7821,43,1,,,Admin1
+,,,Paraguay,,-23.4425,-58.4438,6,,,,Admin1
+,,,Peru,,-9.19,-75.0152,43,,,,Admin1
+,,,Philippines,,12.8797,121.774,140,11,2,,Admin1
+,,,Poland,,51.9194,19.1451,119,3,,,Admin1
+,,,Portugal,,39.3999,-8.2245,245,,2,,Admin1
+,,,Qatar,,25.3548,51.1839,401,,4,,Admin1
+,,,Reunion,,-21.1151,55.5364,7,,,,Admin1
+,,,Romania,,45.9432,24.9668,131,,9,,Admin1
+,,,Russia,,61.524,105.3188,63,,8,,Admin1
+,,,Rwanda,,-1.9403,29.8739,1,,,,Admin1
+,,,Saint Lucia,,13.9094,-60.9789,2,,,,Admin1
+,,,Saint Vincent and the Grenadines,,12.9843,-61.2872,1,,,,Admin1
+,,,San Marino,,43.9424,12.4578,101,5,4,,Admin1
+,,,Saudi Arabia,,23.8859,45.0792,103,,1,,Admin1
+,,,Senegal,,14.4974,-14.4524,24,,1,,Admin1
+,,,Serbia,,44.0165,21.0059,48,,,,Admin1
+,,,Seychelles,,-4.6796,55.492,2,,,,Admin1
+,,,Singapore,,1.3521,103.8198,226,,105,,Admin1
+,,,Slovakia,,48.669,19.699,54,,,,Admin1
+,,,Slovenia,,46.1512,14.9955,219,1,,,Admin1
+,,,South Africa,,-30.5595,22.9375,51,,,,Admin1
+,,,Spain,,40.4637,-3.7492,7798,289,517,,Admin1
+,,,Sri Lanka,,7.8731,80.7718,18,,1,,Admin1
+,,,Sudan,,12.8628,30.2176,1,1,,,Admin1
+,,,Suriname,,3.9193,-56.0278,1,,,,Admin1
+,,,Sweden,,60.1282,18.6435,1022,3,1,,Admin1
+,,,Switzerland,,46.8182,8.2275,2200,14,4,,Admin1
+,,,Thailand,,15.87,100.9925,114,1,35,,Admin1
+,,,Togo,,8.6195,0.8248,1,,,,Admin1
+,,,Trinidad and Tobago,,10.6918,-61.2225,2,,,,Admin1
+,,,Tunisia,,33.8869,9.5375,18,,,,Admin1
+,,,Turkey,,38.9637,35.2433,6,,,,Admin1
+,,,Ukraine,,48.3794,31.1656,3,1,,,Admin1
+,,,United Arab Emirates,,23.4241,53.8478,98,,23,,Admin1
+,,,Uruguay,,-32.5228,-55.7658,4,,,,Admin1
+,,,Uzbekistan,,41.3775,64.5853,1,,,,Admin1
+,,,Venezuela,,6.4238,-66.5897,10,,,,Admin1
+,,,Vietnam,,14.0583,108.2772,56,,16,,Admin1
